@@ -33,22 +33,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1: Intake - Reporting an Issue
+Intake - Logging and Reviewing Issues
 
-Overview:
+Ticket Intake:
 
-A user from a different department logs into osTicket to report an issue.
+A user from another department logs in and reports an issue.
 
-Details Captured:
+Ticket details include subject, description, and urgency.
 
-Subject, description of the issue, requester’s information.
+IT Review:
 
-Priority level for the ticket.
+IT staff log in to review the ticket.
 
-Purpose:
-
-Ensures accurate and timely logging of the issue to initiate resolution.
-Visuals: Screenshot of the ticket submission form or workflow diagram.
+Validate the issue and gather additional information if necessary.
+Visuals: Example of a ticket submission screen and IT dashboard.
 </p>
 <br />
 
